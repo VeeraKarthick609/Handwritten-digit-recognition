@@ -22,7 +22,7 @@ This project demonstrates the training and evaluation of a Convolutional Neural 
 pip install -r requirements.tx
 ```
 3. Download the test_data file from google drive:
-**Go to the provided Google Drive link:** [test_data](https://drive.google.com/drive/folders/1baxlrtmERe5FPhdQWj-W-k8tBvmvRjrN).
+**Google Drive link:** [test_data](https://drive.google.com/drive/folders/1baxlrtmERe5FPhdQWj-W-k8tBvmvRjrN).
 
 
 ## Usage
